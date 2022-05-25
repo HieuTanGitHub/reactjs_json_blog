@@ -1,0 +1,92 @@
+{
+  "blogs": [
+    {
+      "title": "Title 1",
+      "description": "Desc 1",
+      "category": "Travel",
+      "imageUrl": "http://res.cloudinary.com/d5gdt/image/upload/v1653379679/e2cykn2d0qatq8pmlpfa.jpg",
+      "date": "05/24/2022",
+      "id": 1
+    },
+    {
+      "title": "Why do we use it? ",
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using",
+      "category": "Fashion",
+      "imageUrl": "http://res.cloudinary.com/d5gdt/image/upload/v1653383262/cq2xzdn1aomgnr0qgoqs.jpg",
+      "date": "05/24/2022",
+      "id": 3
+    },
+    {
+      "title": "Card title",
+      "description": "This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.",
+      "category": "Tech",
+      "imageUrl": "http://res.cloudinary.com/d5gdt/image/upload/v1653468926/r28qnkx88720vabt8qlh.jpg",
+      "date": "05/25/2022",
+      "id": 4
+    },
+    {
+      "title": "What is Lorem Ipsum?",
+      "description": "What is Lorem Ipsum?",
+      "category": "Sports",
+      "imageUrl": "http://res.cloudinary.com/d5gdt/image/upload/v1653476130/epulethpywb7jyaym3ui.png",
+      "date": "05/25/2022",
+      "id": 5
+    },
+    {
+      "title": "What is Lorem Ipsum?",
+      "description": "What is Lorem Ipsum?",
+      "category": "Fashion",
+      "imageUrl": "http://res.cloudinary.com/d5gdt/image/upload/v1653476140/ou5o8ifcjse4lfpza6i6.png",
+      "date": "05/25/2022",
+      "id": 6
+    },
+    {
+      "title": "What is Lorem Ipsum?",
+      "description": "What is Lorem Ipsum?",
+      "category": "Tech",
+      "imageUrl": "http://res.cloudinary.com/d5gdt/image/upload/v1653476150/ie7ojjixuhknnueqd0pl.png",
+      "date": "05/25/2022",
+      "id": 7
+    },
+    {
+      "title": "What is Lorem Ipsum?",
+      "description": "What is Lorem Ipsum?",
+      "category": "Sports",
+      "imageUrl": "http://res.cloudinary.com/d5gdt/image/upload/v1653476165/kkj9b086wllgacvwqrug.png",
+      "date": "05/25/2022",
+      "id": 8
+    },
+    {
+      "title": "What is Lorem Ipsum?",
+      "description": "What is Lorem Ipsum?",
+      "category": "Travel",
+      "imageUrl": "http://res.cloudinary.com/d5gdt/image/upload/v1653476179/udz26xozouszhf0vwosp.png",
+      "date": "05/25/2022",
+      "id": 9
+    },
+    {
+      "title": "What is Lorem Ipsum?",
+      "description": "What is Lorem Ipsum?",
+      "category": "Tech",
+      "imageUrl": "http://res.cloudinary.com/d5gdt/image/upload/v1653476191/psgxswdihae0adcqu4rb.png",
+      "date": "05/25/2022",
+      "id": 10
+    },
+    {
+      "title": "Why do we use it?",
+      "description": "Why do we use it?",
+      "category": "Food",
+      "imageUrl": "http://res.cloudinary.com/d5gdt/image/upload/v1653476478/ombsmnax6oierwv9qif2.jpg",
+      "date": "05/25/2022",
+      "id": 11
+    },
+    {
+      "title": "Why do we use it?",
+      "description": "Why do we use it?",
+      "category": "Fitness",
+      "imageUrl": "http://res.cloudinary.com/d5gdt/image/upload/v1653476492/zgtq4h0ulzxpci1foo42.png",
+      "date": "05/25/2022",
+      "id": 12
+    }
+  ]
+}
